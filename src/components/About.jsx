@@ -136,7 +136,7 @@ const About = () => {
           </p>
 
           <p className="mt-1 text-[#a05d7e]  font-semibold text-[16px] md:text-[18px]">
-            - Padrinos: Moisés Franco Rangel & Luisa Valdovinos
+            — Padrinos: Moisés Franco Rangel & Luisa Valdovinos
           </p>
 
         </div>
