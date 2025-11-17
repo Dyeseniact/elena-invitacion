@@ -24,7 +24,7 @@ const RSVP = () => {
       return;
     }
 
-    const message = `*Confirmación de asistencia – Presentación de Elena*\n\n*Nombre:* ${form.name}\n*Asistencia:* ${form.attendance}\n*Notas:* ${form.notes || "Ninguna"}\n\n¡Gracias por tu respuesta!`;
+    const message = `*Confirmación de asistencia – Presentación de Helena*\n\n*Nombre:* ${form.name}\n*Asistencia:* ${form.attendance}\n*Notas:* ${form.notes || "Ninguna"}\n\n¡Gracias por tu respuesta!`;
 
     const url =
       "https://wa.me/" +

@@ -70,7 +70,7 @@ const Navbar = () => {
               ${isHome && !scrolled ? "text-white" : "text-[#444]"}
             `}
           >
-            Elena
+            Helena
           </p>
         </Link>
 

@@ -116,7 +116,7 @@ const About = () => {
 
           {/* TÍTULO */}
           <h2 className="text-[32px] md:text-[40px] font-light text-[#d97aa0] leading-tight mb-4">
-            Te invitamos a la Presentación de Elena ✨
+            Te invitamos a la Presentación de Helena ✨
           </h2>
 
           <p className="mt-3 text-[16px] md:text-[17px] leading-[28px] text-[#636363]">
@@ -127,7 +127,7 @@ const About = () => {
           </p>
 
           <p className="italic mt-6 text-[16px] md:text-[17px] text-[#a05d7e]">
-            “Elena, eres nuestra luz y nuestro mayor regalo. Celebramos tu vida y la
+            “Helena, eres nuestra luz y nuestro mayor regalo. Celebramos tu vida y la
             alegría que has traído a nuestro hogar. Te amamos profundamente.”
           </p>
 

@@ -10,7 +10,7 @@ const Home = () => {
       <div className="absolute inset-0 w-full h-full">
         <img
           src={Portada}
-          alt="Presentación de Elena"
+          alt="Presentación de Helena"
           className="absolute inset-0 w-full h-full object-cover"
         />
       </div>
@@ -45,7 +45,7 @@ const Home = () => {
             leading-tight
           "
         >
-          Elena
+          Helena
         </h1>
 
         {/* FECHA */}

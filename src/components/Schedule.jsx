@@ -9,7 +9,7 @@ import { SectionWrapper } from "../hoc";
 import { textVariant } from "../utils/motion";
 
 // =========================
-//   ITINERARIO DE ELENA 💗
+//   ITINERARIO DE HELENA 💗
 // =========================
 const schedule = [
   {
